@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sanjay Kumaran
 
-💻 Computer Science undergraduate | Passionate about **Java, DSA, and building scalable full-stack applications**.  
+💻 Computer Science undergraduate and Passionate about **Java, DSA, and building scalable full-stack applications**.  
 🌱 Currently exploring the **MERN stack** and applying problem-solving skills to create efficient, user-friendly solutions.  
 
 ---
@@ -46,4 +46,4 @@
 
 ---
 
-✨ *“Keep coding, keep growing!”* ✨
+✨ *“Keep coding, Keep growing!”* ✨
