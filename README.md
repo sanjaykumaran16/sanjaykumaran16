@@ -33,9 +33,9 @@
 
 ## 🌟 Featured Projects
 
-- [**InterviewMate**](https://github.com/sanjaykumaran16/InterviewMate) – AI-powered interview preparation platform  
+- [**InterviewMate**](https://github.com/sanjaykumaran16/Interview_Mate) – AI-powered interview preparation platform  
 - [**Atlas Library**](https://github.com/sanjaykumaran16/Atlas_Library) – Digital library system with MERN stack  
-- More projects on my [GitHub Repos](https://github.com/sanjaykumaran16?tab=repositories)
+- [**FoodLink**](https://github.com/sanjaykumaran16/Food_Link) – Platform to reduce food waste and fight hunger  
 
 ---
 
