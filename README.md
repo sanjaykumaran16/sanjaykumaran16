@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sanjay  
+# Hi there 👋, I'm Sanjay Kumaran
 
 💻 Computer Science undergraduate | Passionate about **Java, DSA, and building scalable full-stack applications**.  
 🌱 Currently exploring the **MERN stack** and applying problem-solving skills to create efficient, user-friendly solutions.  
@@ -31,10 +31,11 @@
 
 ---
 
-## 📂 Featured Projects  
+## 🌟 Featured Projects
 
-[![InterviewMate](https://github-readme-stats.vercel.app/api/pin/?username=sanjaykumaran16&repo=InterviewMate&theme=tokyonight)](https://github.com/sanjaykumaran16/InterviewMate)  
-[![Atlas Library](https://github-readme-stats.vercel.app/api/pin/?username=sanjaykumaran16&repo=Atlas_Library&theme=tokyonight)](https://github.com/sanjaykumaran16/Atlas_Library)  
+- [**InterviewMate**](https://github.com/sanjaykumaran16/InterviewMate) – AI-powered interview preparation platform  
+- [**Atlas Library**](https://github.com/sanjaykumaran16/Atlas_Library) – Digital library system with MERN stack  
+- More projects on my [GitHub Repos](https://github.com/sanjaykumaran16?tab=repositories)
 
 ---
 
