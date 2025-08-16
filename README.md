@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanjay Kumar
+# 👋 Hi, I'm Sanjay Kumaran
 
 💻 Full-stack developer passionate about building scalable web apps and exploring AI-powered solutions.  
 🌱 Currently improving my MERN stack skills & contributing to open-source.  
