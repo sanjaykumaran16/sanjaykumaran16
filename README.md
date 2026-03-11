@@ -1,15 +1,17 @@
 # Hi there 👋, I'm Sanjay Kumaran
 
-💻 Computer Science undergraduate and Passionate about **Java, DSA, and building scalable full-stack applications**.  
-🌱 Currently exploring the **MERN stack** and applying problem-solving skills to create efficient, user-friendly solutions.  
+💻 Computer Science undergraduate at **College of Engineering, Guindy (Anna University)**  
+🚀 Passionate about **Data Structures, Backend Systems, and Full-Stack Development**  
+🧠 Currently exploring **Machine Learning, DevOps, and Cloud Technologies**
 
 ---
 
 ## 🚀 About Me  
-- 🔧 Strong foundation in **Java, DSA, OOPs, DBMS, Agile**  
-- ⚡ Exploring **MERN stack** for scalable apps  
-- 🎯 Interested in **AI-powered apps & system design**  
-- 🤝 Open to collaborations in **open-source & projects**  
+- 🎓 B.E. Computer Science student at **CEG, Anna University**
+- 💡 Strong foundation in **DSA, DBMS, OOP, and Computer Networks**
+- 🛠️ Experienced in building **scalable full-stack applications using the MERN stack**
+- 🤖 Interested in **AI-powered systems, backend engineering, and system design**
+- 🧩 Solved **250+ problems on LeetCode** 
 
 ---
 
@@ -33,9 +35,10 @@
 
 ## 🌟 Featured Projects
 
-- [**Interview Mate**](https://github.com/sanjaykumaran16/Interview_Mate) – AI-powered interview preparation platform  
-- [**The Atlas Library**](https://github.com/sanjaykumaran16/Atlas_Library) – Digital library system with MERN stack  
-- [**Food Link**](https://github.com/sanjaykumaran16/Food_Link) – Platform to reduce food waste and fight hunger  
+- [**Interview Mate**](https://github.com/sanjaykumaran16/Interview_Mate) – AI platform using MediaRecorder API for real-time voice feedback and dynamic interview generation.
+- [**Smart Privacy Firewall**](https://github.com/sanjaykumaran16/smart-privacy-firewall) – An AI-powered system analyzing website privacy policies with a deterministic rule engine and Chrome extension integration.
+- [**The Atlas Library**](https://github.com/sanjaykumaran16/Atlas_Library) – A MERN stack digital management system for tracking book inventories and streamlining user borrowing workflows.
+- [**Food Link**](https://github.com/sanjaykumaran16/Food_Link) – A platform designed to reduce food waste by connecting donors with local organizations in real-time. 
 
 ---
 
